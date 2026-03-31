@@ -1,160 +1,87 @@
 {
+  "categories": [
+    { "slug": "residential", "name": "Residential Plumbing", "shortName": "Residential", "icon": "House", "description": "Complete plumbing services for Houston homes." },
+    { "slug": "drain-services", "name": "Drain & Sewer", "shortName": "Drains", "icon": "Droplets", "description": "Professional drain cleaning and sewer repair." }
+  ],
   "services": [
     {
-      "slug": "electrical-repair",
-      "name": "Electrical Repair",
-      "shortDescription": "Expert diagnosis and repair for all electrical issues.",
-      "longDescription": "Flickering lights? Tripping breakers? Dead outlets? Bright Spark Electric diagnoses and repairs all electrical problems safely and correctly. Our licensed electricians identify the root cause and fix it right the first time, ensuring your home's electrical system is safe and reliable.",
-      "icon": "Zap",
-      "features": [
-        "All electrical issues",
-        "Same-day service available",
-        "Thorough troubleshooting",
-        "Code-compliant repairs",
-        "Safety inspection included",
-        "2-year warranty"
-      ],
-      "category": "repairs",
-      "emergency": true
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "shortDescription": "Professional drain cleaning to restore flow and prevent backups in your Houston home.",
+      "longDescription": "Slow drains and recurring clogs are more than an inconvenience. Our drain cleaning service uses professional-grade equipment to clear blockages in kitchen sinks, bathroom drains, and floor drains. We identify the root cause so the problem doesn't come back next week.",
+      "icon": "Droplets",
+      "features": ["Hydro jetting", "Camera inspection", "Kitchen & bath drains", "Floor drains", "Preventive maintenance"],
+      "category": "drain-services",
+      "emergency": true,
+      "metaTitle": "Drain Cleaning Houston TX | Hart Of Texas Plumbing",
+      "metaDescription": "Professional drain cleaning in Houston. Fast service, honest pricing. Call (713) 364-3254 for same-day appointments."
     },
     {
-      "slug": "panel-upgrade",
-      "name": "Panel Upgrade",
-      "shortDescription": "Upgrade your electrical panel for more power and safety.",
-      "longDescription": "Older homes often have electrical panels that can't handle modern demands. Bright Spark Electric upgrades panels from 100 to 200 amps or more, adding capacity for modern appliances, EV chargers, and home additions. All work is permitted and inspected.",
-      "icon": "Server",
-      "features": [
-        "100 to 200 amp upgrades",
-        "Permit included",
-        "Utility coordination",
-        "Code compliance",
-        "Arc-fault protection",
-        "Surge protection options"
-      ],
-      "category": "upgrades"
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "shortDescription": "Expert sewer line diagnosis and repair for Houston properties.",
+      "longDescription": "Sewer line problems can cause serious damage if left unchecked. We use camera inspection to pinpoint the issue, then recommend the most cost-effective repair. From spot repairs to full line replacement, we handle it with minimal disruption to your yard.",
+      "icon": "PipelineIcon",
+      "features": ["Camera inspection", "Trenchless repair", "Line replacement", "Root removal"],
+      "category": "drain-services",
+      "metaTitle": "Sewer Line Repair Houston | Hart Of Texas Plumbing",
+      "metaDescription": "Sewer line repair and replacement in Houston TX. Camera inspection, trenchless options. Call (713) 364-3254."
     },
     {
-      "slug": "outlet-installation",
-      "name": "Outlet & Switch Installation",
-      "shortDescription": "Install, repair, or upgrade outlets and switches.",
-      "longDescription": "Need more outlets? Want USB charging ports? Upgrading to smart switches? Bright Spark Electric installs all types of outlets and switches, from standard to GFCI, AFCI, and smart devices. We ensure proper placement, secure connections, and code compliance.",
-      "icon": "Plug",
-      "features": [
-        "Standard outlets",
-        "GFCI outlets",
-        "USB charging outlets",
-        "Smart switches",
-        "Dimmer switches",
-        "220V outlets"
-      ],
-      "category": "installation"
+      "slug": "leak-detection-repair",
+      "name": "Leak Detection & Repair",
+      "shortDescription": "Find and fix hidden leaks before they cause costly water damage.",
+      "longDescription": "A small leak can waste thousands of gallons and cause mold, rot, and structural damage. Our leak detection service locates hidden leaks in walls, under slabs, and in supply lines using specialized equipment. Once found, we repair it properly the first time.",
+      "icon": "Scan",
+      "features": ["Electronic leak detection", "Slab leak repair", "Pipe repair", "Water damage prevention"],
+      "category": "residential",
+      "emergency": true,
+      "metaTitle": "Leak Detection Houston TX | Hart Of Texas Plumbing",
+      "metaDescription": "Expert leak detection and repair in Houston. Electronic detection, slab leaks, pipe repair. Call (713) 364-3254."
     },
     {
-      "slug": "lighting",
-      "name": "Lighting Installation",
-      "shortDescription": "Indoor, outdoor, and specialty lighting solutions.",
-      "longDescription": "Transform your space with professional lighting installation from Bright Spark Electric. We install recessed lighting, chandeliers, under-cabinet lights, landscape lighting, and more. Our electricians ensure safe installation and help you choose the right fixtures for your needs.",
-      "icon": "Lightbulb",
-      "features": [
-        "Recessed lighting",
-        "Chandeliers & pendants",
-        "Under-cabinet lighting",
-        "Landscape lighting",
-        "Security lighting",
-        "LED upgrades"
-      ],
-      "category": "installation"
+      "slug": "water-heater-service",
+      "name": "Water Heater Service",
+      "shortDescription": "Water heater installation, repair, and replacement for Houston homes.",
+      "longDescription": "No hot water is a problem that needs fixing fast. We service all major brands of tank and tankless water heaters. Whether you need a repair, a new installation, or advice on upgrading to a more efficient unit, we'll give you honest recommendations.",
+      "icon": "Flame",
+      "features": ["Tank & tankless", "Installation", "Repair", "Same-day service", "All major brands"],
+      "category": "residential",
+      "metaTitle": "Water Heater Service Houston | Hart Of Texas Plumbing",
+      "metaDescription": "Water heater repair and installation in Houston TX. Tank and tankless. Call (713) 364-3254 for same-day service."
     },
     {
-      "slug": "ceiling-fan",
-      "name": "Ceiling Fan Installation",
-      "shortDescription": "Professional ceiling fan installation and repair.",
-      "longDescription": "A properly installed ceiling fan improves comfort and saves energy. Bright Spark Electric installs all types of ceiling fans, from simple to smart-enabled. We ensure secure mounting, proper wiring, and balanced operation.",
-      "icon": "Fan",
-      "features": [
-        "All fan types",
-        "Secure mounting",
-        "Remote controls",
-        "Smart fan setup",
-        "Old fan removal",
-        "Proper balancing"
-      ],
-      "category": "installation"
-    },
-    {
-      "slug": "ev-charger",
-      "name": "EV Charger Installation",
-      "shortDescription": "Install a Level 2 EV charger at your home.",
-      "longDescription": "Charge your electric vehicle at home with a Level 2 charger installation from Bright Spark Electric. We install all major brands including Tesla, ChargePoint, and JuiceBox. Our licensed electricians ensure proper circuit sizing, permitting, and safe installation.",
-      "icon": "Battery",
-      "features": [
-        "All EV charger brands",
-        "Level 2 charging",
-        "Panel capacity check",
-        "Permit included",
-        "Utility rebate assistance",
-        "NEMA 14-50 outlets"
-      ],
-      "category": "upgrades"
-    },
-    {
-      "slug": "rewiring",
-      "name": "Whole-Home Rewiring",
-      "shortDescription": "Replace outdated wiring with safe, modern electrical.",
-      "longDescription": "Older homes with knob-and-tube or aluminum wiring pose serious safety risks. Bright Spark Electric replaces outdated wiring with modern copper wiring that meets current codes. We minimize disruption while ensuring your home is safe for decades to come.",
-      "icon": "Home",
-      "features": [
-        "Complete rewiring",
-        "Minimal wall damage",
-        "Panel upgrade included",
-        "All permits handled",
-        "Code compliance",
-        "Grounded outlets throughout"
-      ],
-      "category": "upgrades"
-    },
-    {
-      "slug": "emergency-electrical",
-      "name": "Emergency Electrical",
-      "shortDescription": "24/7 emergency electrical service.",
-      "longDescription": "Electrical emergencies can be dangerous. Power outages, sparking outlets, burning smells—don't wait. Bright Spark Electric offers 24/7 emergency electrical service in Denver. Our licensed electricians respond quickly to keep your family safe.",
-      "icon": "AlertCircle",
-      "features": [
-        "24/7 availability",
-        "Fast response",
-        "Safety first approach",
-        "All emergencies handled",
-        "Licensed electricians",
-        "Permanent solutions"
-      ],
-      "category": "emergency",
-      "emergency": true
-    }
-  ],
-  "categories": [
-    {
-      "slug": "repairs",
-      "name": "Electrical Repairs",
+      "slug": "toilet-repair",
+      "name": "Toilet Repair & Installation",
+      "shortDescription": "Running toilets, clogs, and new installations handled professionally.",
+      "longDescription": "A running toilet wastes water and money. A clogged toilet is an emergency. We fix both quickly. Our plumbers handle everything from simple flapper replacements to full toilet installations, always with upfront pricing and clean workmanship.",
       "icon": "Wrench",
-      "description": "Fix electrical problems safely."
+      "features": ["Clog removal", "Running toilet fix", "New installation", "Low-flow upgrades"],
+      "category": "residential",
+      "metaTitle": "Toilet Repair Houston TX | Hart Of Texas Plumbing",
+      "metaDescription": "Toilet repair and installation in Houston. Fast, clean service. Call (713) 364-3254."
     },
     {
-      "slug": "installation",
-      "name": "Installation",
-      "icon": "Wrench",
-      "description": "Outlets, lighting, fans, and more."
+      "slug": "faucet-fixture-repair",
+      "name": "Faucet & Fixture Repair",
+      "shortDescription": "Leaky faucets, broken fixtures, and new installations throughout your home.",
+      "longDescription": "Dripping faucets and worn-out fixtures waste water and look bad. We repair and replace kitchen faucets, bathroom fixtures, showerheads, and outdoor spigots. Bring your own fixture or choose from our trusted brands.",
+      "icon": "Droplet",
+      "features": ["Kitchen faucets", "Bathroom fixtures", "Showerheads", "Outdoor spigots", "Garbage disposals"],
+      "category": "residential",
+      "metaTitle": "Faucet Repair Houston TX | Hart Of Texas Plumbing",
+      "metaDescription": "Faucet and fixture repair in Houston. Kitchen, bathroom, outdoor. Call (713) 364-3254."
     },
     {
-      "slug": "upgrades",
-      "name": "Upgrades",
-      "icon": "Wrench",
-      "description": "Panel upgrades, rewiring, EV chargers."
-    },
-    {
-      "slug": "emergency",
-      "name": "Emergency",
-      "icon": "Wrench",
-      "description": "24/7 urgent electrical service."
+      "slug": "repiping",
+      "name": "Whole-Home Repiping",
+      "shortDescription": "Upgrade old, corroded pipes to modern materials for better water flow and quality.",
+      "longDescription": "Homes with galvanized or polybutylene pipes eventually need repiping. Discolored water, low pressure, and frequent leaks are signs it's time. We replace old pipes with modern PEX or copper, improving water quality, pressure, and peace of mind.",
+      "icon": "GitBranch",
+      "features": ["PEX & copper", "Galvanized replacement", "Improved water quality", "Better pressure", "Warranty included"],
+      "category": "residential",
+      "metaTitle": "Repiping Houston TX | Hart Of Texas Plumbing",
+      "metaDescription": "Whole-home repiping in Houston. Replace old galvanized pipes with PEX or copper. Call (713) 364-3254."
     }
   ]
 }

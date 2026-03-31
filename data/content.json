@@ -1,132 +1,76 @@
 {
   "hero": {
-    "headline": "Spotless Spaces.",
-    "headlineAccent": "Happy Faces.",
-    "description": "Professional cleaning services that transform your home into a sanctuary. Eco-friendly products, trusted cleaners, and attention to every detail.",
-    "imageAlt": "Professional cleaner wiping kitchen counter"
+    "headline": "Houston's Trusted",
+    "headlineAccent": "Plumbing Experts",
+    "description": "Family-owned plumbing and drain cleaning serving the Houston area. 5-star rated with fast response times and honest pricing.",
+    "heroBackgroundImage": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_2560,h_1440,q_auto:best,f_auto/foundlio/verticals/hero-plumbing-split.jpg",
+    "imageAlt": "Hart Of Texas Plumbing professional service truck"
   },
-  "trustSection": {
-    "title": "Why Choose Sparkle Home Cleaning?",
-    "subtitle": "Trusted by hundreds of Scottsdale families for impeccable cleaning",
-    "factoryAuthorized": "Eco-Friendly Products",
-    "factoryDescription": "Green Seal Certified"
+  "trust": {
+    "items": [
+      { "icon": "Star", "label": "5.0 Stars", "value": "Google Rating" },
+      { "icon": "Clock", "label": "1-Hour Response", "value": "Fast Service" },
+      { "icon": "Shield", "label": "Licensed & Insured", "value": "Full Coverage" },
+      { "icon": "DollarSign", "label": "Free Estimates", "value": "No Surprises" }
+    ]
   },
   "mediaBar": {
-    "tagline": "Trusted By Scottsdale Families"
+    "tagline": "Serving Houston and surrounding areas since 2016 — Call (713) 364-3254"
   },
   "servicesSection": {
-    "title": "Our Cleaning Services",
-    "subtitle": "Comprehensive cleaning solutions for homes and businesses"
+    "headline": "Our Plumbing Services",
+    "description": "From routine repairs to emergency drain cleaning, we handle it all with care and expertise."
   },
   "processSection": {
-    "title": "How We Work",
-    "subtitle": "Simple booking, exceptional results",
+    "headline": "How It Works",
+    "description": "Getting your plumbing fixed shouldn't be complicated.",
     "steps": [
-      {
-        "title": "Book Online or Call",
-        "description": "Schedule your cleaning in minutes through our website or give us a call."
-      },
-      {
-        "title": "Customize Your Clean",
-        "description": "Tell us your priorities and any special requests for your space."
-      },
-      {
-        "title": "We Clean, You Relax",
-        "description": "Our trained professionals arrive on time and clean with care."
-      },
-      {
-        "title": "Enjoy Your Space",
-        "description": "Come home to a spotless, fresh-smelling space. 100% satisfaction guaranteed."
-      }
+      { "title": "Call Us", "description": "Reach us at (713) 364-3254. We'll ask a few questions to understand your issue and schedule a visit.", "icon": "Phone" },
+      { "title": "On-Site Diagnosis", "description": "Our licensed plumber arrives on time, inspects the problem, and gives you an honest quote before any work starts.", "icon": "Search" },
+      { "title": "Expert Repair", "description": "We fix it right the first time using quality parts and proven techniques. No shortcuts.", "icon": "Wrench" },
+      { "title": "Your Approval", "description": "We walk you through what we did, clean up, and make sure you're satisfied before we leave.", "icon": "CheckCircle" }
     ]
   },
   "worksSection": {
-    "badgeText": "Before & After",
-    "title": "Our Transformations",
-    "subtitle": "See the Sparkle difference in Scottsdale homes"
+    "headline": "Recent Projects",
+    "description": "A look at some of the plumbing work we've completed for Houston homeowners."
   },
   "testimonialsSection": {
-    "title": "What Our Clients Say",
-    "subtitle": "Trusted by hundreds of Scottsdale homeowners"
+    "headline": "What Our Customers Say",
+    "description": "Don't just take our word for it. Here's what Houston residents say about our work."
   },
   "aboutSection": {
-    "title": "About Sparkle Home Cleaning",
-    "subtitle": "Your trusted cleaning partner in Scottsdale",
-    "description": "Sparkle Home Cleaning was founded in 2018 with a simple mission: provide honest, thorough cleaning services that Scottsdale families can count on.\nWhat started as a one-person operation has grown into a team of 15+ professional cleaners. But even as we've grown, we've never lost sight of what matters most—treating every home with care and respect.",
-    "mission": "To make every Scottsdale home a healthier, happier place to live.",
+    "description": "Hart Of Texas Plumbing & Drain Cleaning is a family-owned plumbing company serving the greater Houston area. Founded in 2016, we've built our reputation on honest pricing, fast response times, and quality workmanship. Our licensed plumbers handle everything from leaky faucets and clogged drains to full repiping and sewer line repair. We treat every home like our own and every customer like a neighbor.",
+    "mission": "To provide reliable, affordable plumbing services to Houston families with integrity and respect.",
     "values": [
-      { "title": "Customer First", "description": "Every decision starts with what's best for our customers and their families." },
-      { "title": "Quality Work", "description": "We never cut corners. Every job done right, guaranteed." },
-      { "title": "Eco-Friendly", "description": "Green Seal Certified products that are safe for kids, pets, and the planet." }
-    ]
+      { "title": "Honest Pricing", "description": "We quote before we start. No hidden fees, no surprise charges. Ever.", "icon": "DollarSign" },
+      { "title": "Fast Response", "description": "Plumbing emergencies don't wait. Neither do we. Same-day service available.", "icon": "Clock" },
+      { "title": "Quality Work", "description": "Licensed plumbers using quality parts. We fix it right the first time with a warranty.", "icon": "Shield" }
+    ],
+    "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/verticals/generic-about-us.jpg"
+  },
+  "faqSection": {
+    "headline": "Common Questions",
+    "description": "Answers to questions Houston homeowners ask most."
   },
   "blogSection": {
-    "title": "Tips & Insights",
-    "subtitle": "Expert cleaning advice and home care tips from our team"
+    "headline": "Plumbing Tips & Advice",
+    "description": "Helpful articles to keep your home's plumbing running smoothly."
   },
   "ctaBanner": {
-    "title": "Ready for a Spotless Home?",
-    "description": "Book your cleaning today and enjoy a fresh, healthy living space."
+    "headline": "Need a Plumber Today?",
+    "description": "Call Hart Of Texas Plumbing for fast, reliable service in the Houston area. Free estimates on all work.",
+    "buttonText": "Call (713) 364-3254",
+    "buttonHref": "tel:+17133643254"
   },
   "pages": {
-    "services": {
-      "heroTitle": "Our Cleaning Services",
-      "heroSubtitle": "From weekly maintenance to deep cleans, we've got you covered",
-      "ctaTitle": "Ready to Book Your Cleaning?",
-      "ctaDescription": "Contact us today for a free estimate on your home or office."
-    },
-    "about": {
-      "heroTitle": "Your Trusted Cleaning Partner Since 2018",
-      "heroSubtitle": "For 8 years, Sparkle Home Cleaning has been making Scottsdale homes shine. We treat every home like our own.",
-      "storyTitle": "Our Story",
-      "storyParagraphs": [
-        "Sparkle Home Cleaning was founded in 2018 with a simple mission: provide honest, thorough cleaning services that Scottsdale families can count on.",
-        "What started as a one-person operation has grown into a team of 15+ professional cleaners. But even as we've grown, we've never lost sight of what matters most—treating every home with care and respect.",
-        "Today, we're proud to serve hundreds of Scottsdale families with eco-friendly cleaning that's safe for kids, pets, and the planet."
-      ]
-    },
-    "contact": {
-      "heroTitle": "Get in Touch",
-      "heroSubtitle": "Ready to book a cleaning or have questions? We're here to help. Call us or fill out the form below.",
-      "formTitle": "Request a Free Estimate",
-      "formSubtitle": "Tell us about your space and we'll provide a customized quote.",
-      "emergencyTitle": "Need Same-Day Service?",
-      "emergencyText": "For urgent cleaning needs, please call us directly and we'll do our best to accommodate you."
-    },
-    "areas": {
-      "heroTitle": "Serving the Scottsdale Area",
-      "heroSubtitle": "Professional cleaning services throughout the Valley. We proudly serve Scottsdale and surrounding communities.",
-      "serviceRadiusText": "Don't see your city listed? We likely serve your area too! Give us a call to confirm.",
-      "ctaTitle": "Need Cleaning Service in Your Area?",
-      "ctaDescription": "Contact us today for a free estimate on your home or office cleaning."
-    },
-    "blog": {
-      "heroTitle": "Cleaning Tips & Insights",
-      "heroSubtitle": "Expert advice, cleaning hacks, and home care tips to help you maintain a healthy, happy home.",
-      "ctaTitle": "Ready for Professional Help?",
-      "ctaDescription": "Let us handle the deep cleaning while you enjoy your free time."
-    },
-    "works": {
-      "heroTitle": "Our Transformations",
-      "heroSubtitle": "Browse through our before & after gallery. From messy to spotless, see the Sparkle difference.",
-      "ctaTitle": "Ready for Your Transformation?",
-      "ctaDescription": "Contact us for a free estimate on your cleaning project."
-    },
-    "financing": {
-      "heroTitle": "Affordable Cleaning Plans",
-      "heroSubtitle": "We offer flexible scheduling and competitive pricing to fit every budget.",
-      "whyFinanceTitle": "Why Choose Regular Cleaning?",
-      "ctaTitle": "Ready to Get Started?",
-      "ctaDescription": "Contact us today to discuss a cleaning schedule that works for you."
-    },
-    "emergencyTips": {
-      "heroTitle": "Quick Cleaning Tips",
-      "heroSubtitle": "Use these tips for common cleaning emergencies between professional visits.",
-      "commonTitle": "Common Cleaning Challenges",
-      "preventionTitle": "Maintain a Clean Home",
-      "preventionSubtitle": "Simple habits that keep your home fresh between professional cleanings.",
-      "contactTitle": "Need Professional Help?",
-      "contactSubtitle": "Our cleaning team is ready to tackle any mess, big or small."
-    }
+    "services": { "headline": "Our Plumbing Services", "description": "Complete plumbing solutions for Houston homes and businesses." },
+    "about": { "headline": "About Hart Of Texas Plumbing", "description": "Family-owned, Houston-based, and committed to quality since 2016." },
+    "contact": { "headline": "Contact Us", "description": "Get in touch for a free estimate or emergency plumbing service." },
+    "areas": { "headline": "Areas We Serve", "description": "Providing plumbing services across the greater Houston area." },
+    "blog": { "headline": "Plumbing Tips & Advice", "description": "Expert plumbing tips for Houston homeowners." },
+    "works": { "headline": "Our Work", "description": "Recent plumbing projects completed by our team." },
+    "financing": { "headline": "Financing Options", "description": "Flexible payment options for larger plumbing projects." },
+    "emergencyTips": { "headline": "Emergency Plumbing Tips", "description": "What to do when you have a plumbing emergency." }
   }
 }

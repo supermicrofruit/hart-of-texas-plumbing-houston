@@ -1,58 +1,53 @@
 {
   "summary": {
-    "averageRating": 4.7,
-    "totalReviews": 312
+    "averageRating": 5,
+    "totalReviews": 15,
+    "platforms": [
+      { "name": "Google", "rating": 5, "reviews": 15 }
+    ]
   },
   "testimonials": [
     {
       "id": 1,
-      "name": "Angela R.",
+      "name": "David R.",
       "rating": 5,
-      "text": "Bright Spark Electric rewired our entire 1960s home. They were meticulous about everything — clean work, labeled breakers, and passed inspection first try.",
-      "service": "Whole Home Rewiring",
-      "location": "Denver, CO",
-      "date": "2024-11-18",
-      "verified": true
+      "text": "Called Hart Of Texas for a clogged kitchen drain and they came out the same day. The plumber was professional, explained what he found, and had it fixed in under an hour. Very fair price too.",
+      "date": "2026-02-15"
     },
     {
       "id": 2,
-      "name": "Steven C.",
+      "name": "Maria G.",
       "rating": 5,
-      "text": "Had a circuit breaker that kept tripping. Bright Spark Electric found the root cause — an overloaded circuit from a bad renovation. Fixed it properly and explained everything.",
-      "service": "Panel Upgrade",
-      "location": "Denver, CO",
-      "date": "2024-10-22",
-      "verified": true
+      "text": "We had a leak under our slab that two other companies couldn't find. Hart Of Texas used their camera equipment and located it on the first try. Saved us a lot of money and stress.",
+      "date": "2026-01-20"
     },
     {
       "id": 3,
-      "name": "Diana F.",
+      "name": "James T.",
       "rating": 5,
-      "text": "Installed landscape lighting and outdoor outlets for our patio remodel. The design was beautiful and everything works perfectly. Very detail-oriented team.",
-      "service": "Outdoor Lighting",
-      "location": "Denver, CO",
-      "date": "2024-09-15",
-      "verified": true
+      "text": "Great experience from start to finish. They answered the phone right away, showed up on time, and gave me an honest quote before starting work. My water heater was replaced the same day.",
+      "date": "2025-12-10"
     },
     {
       "id": 4,
-      "name": "Ray T.",
+      "name": "Sarah M.",
       "rating": 5,
-      "text": "Power went out in half the house during a monsoon. Bright Spark Electric came out same day, found a damaged breaker, and had us back up in no time.",
-      "service": "Emergency Service",
-      "location": "Denver, CO",
-      "date": "2024-08-20",
-      "verified": true
+      "text": "Had multiple drains backing up after heavy rain. They came out quickly and cleared everything. Explained what was causing the issue and how to prevent it. Really appreciated the honesty.",
+      "date": "2025-11-05"
     },
     {
       "id": 5,
-      "name": "Linda S.",
+      "name": "Robert K.",
       "rating": 5,
-      "text": "Installed a Tesla Wall Connector and upgraded our panel to handle it. Bright Spark Electric handled the permit, install, and inspection. Seamless experience.",
-      "service": "EV Charger Install",
-      "location": "Denver, CO",
-      "date": "2024-07-10",
-      "verified": true
+      "text": "Used them for a toilet replacement and a faucet install. Both done cleanly and professionally. No mess left behind. Will definitely use again for any plumbing needs.",
+      "date": "2025-10-18"
+    },
+    {
+      "id": 6,
+      "name": "Linda W.",
+      "rating": 5,
+      "text": "Honest, reliable, and skilled. They repiped our 1985 home and the difference in water pressure is incredible. The crew was respectful of our property and cleaned up everything.",
+      "date": "2025-09-22"
     }
   ]
 }

@@ -1,180 +1,45 @@
 {
-  "primaryServiceArea": "Denver",
-  "serviceRadius": "We serve Denver and surrounding Front Range communities within 25 miles",
+  "primaryServiceArea": "Houston",
   "areas": [
     {
-      "slug": "denver",
-      "name": "Denver",
-      "state": "CO",
-      "description": "Bright Spark Electric serves homeowners and businesses across Denver, from Capitol Hill Victorian renovations to new construction in RiNo. Our licensed electricians know Denver's diverse housing stock and the electrical challenges that come with it.",
-      "neighborhoods": [
-        "Capitol Hill",
-        "Washington Park",
-        "Highland",
-        "RiNo",
-        "Baker",
-        "Stapleton"
-      ],
-      "landmarks": [
-        "Red Rocks Amphitheatre",
-        "Denver Union Station",
-        "Coors Field",
-        "Denver Art Museum"
-      ],
-      "serviceHighlights": [
-        "Knob-and-tube and aluminum wiring replacement",
-        "EV charger installation — Level 2 home charging stations",
-        "Panel upgrades to 200A for older Denver homes"
-      ],
-      "coordinates": {
-        "lat": 39.7392,
-        "lng": -104.9903
-      }
+      "slug": "houston",
+      "name": "Houston",
+      "state": "TX",
+      "description": "As our home base, we serve all of Houston with reliable plumbing and drain cleaning. From the Heights to Meyerland, Montrose to Clear Lake, our plumbers know the city and its aging infrastructure. Houston's clay soil and shifting foundations create unique plumbing challenges we deal with every day.",
+      "neighborhoods": ["The Heights", "Montrose", "Midtown", "River Oaks", "Meyerland", "Memorial"],
+      "landmarks": ["Memorial Park", "Houston Galleria", "NRG Stadium"],
+      "serviceHighlights": ["Emergency plumbing", "Slab leak repair", "Drain cleaning"],
+      "coordinates": { "lat": 29.7604, "lng": -95.3698 }
     },
     {
-      "slug": "aurora",
-      "name": "Aurora",
-      "state": "CO",
-      "description": "Aurora is one of Colorado's largest cities and home to a diverse mix of older bungalows, mid-century ranch homes, and newer developments. Bright Spark Electric provides dependable electrical service across all of Aurora.",
-      "neighborhoods": [
-        "Stapleton",
-        "Centretech",
-        "Saddle Rock",
-        "Heather Ridge",
-        "Murphy Creek",
-        "Tallyn's Reach"
-      ],
-      "landmarks": [
-        "Aurora Reservoir",
-        "Denver International Airport",
-        "Buckley Space Force Base",
-        "Stanley Marketplace"
-      ],
-      "serviceHighlights": [
-        "Federal Pacific and Zinsco panel replacement",
-        "Storm damage repair and outdoor service entrance restoration",
-        "Whole-home rewire for mid-century ranch homes"
-      ],
-      "coordinates": {
-        "lat": 39.7294,
-        "lng": -104.8319
-      }
+      "slug": "humble",
+      "name": "Humble",
+      "state": "TX",
+      "description": "We provide fast plumbing service to Humble and the Atascocita area. Many homes here were built in the 90s and 2000s, and are starting to see issues with water heaters, supply lines, and drain systems. We know these neighborhoods well.",
+      "neighborhoods": ["Atascocita", "Fall Creek", "Eagle Springs", "Lakeshore"],
+      "landmarks": ["Deerbrook Mall", "Humble Civic Center"],
+      "serviceHighlights": ["Water heater service", "Drain cleaning", "Repiping"],
+      "coordinates": { "lat": 29.9988, "lng": -95.2622 }
     },
     {
-      "slug": "lakewood",
-      "name": "Lakewood",
-      "state": "CO",
-      "description": "Lakewood's mix of 1960s ranch homes, newer townhomes, and Belmar-area condos keeps Bright Spark Electric busy year-round. We understand the electrical systems common to Jefferson County and bring honest, licensed work to every job.",
-      "neighborhoods": [
-        "Belmar",
-        "Morse Park",
-        "Green Mountain",
-        "Applewood",
-        "Estes",
-        "Westland"
-      ],
-      "landmarks": [
-        "Red Rocks Park",
-        "Belmar Shopping District",
-        "Bear Creek Lake Park",
-        "Colorado Mills Mall"
-      ],
-      "serviceHighlights": [
-        "Panel upgrades from 100A to 200A or 400A service",
-        "Grounding and GFCI/AFCI outlet upgrades throughout the home",
-        "Outdoor lighting and weatherproof outlet installation"
-      ],
-      "coordinates": {
-        "lat": 39.7047,
-        "lng": -105.0814
-      }
+      "slug": "kingwood",
+      "name": "Kingwood",
+      "state": "TX",
+      "description": "Kingwood's established neighborhoods have mature trees and well-used plumbing systems. Root intrusion, aging pipes, and water heater failures are common calls we handle here. Our plumbers provide prompt, professional service throughout the Kingwood area.",
+      "neighborhoods": ["Kingwood Lakes", "Forest Cove", "Greentree Village", "Woodland Hills"],
+      "landmarks": ["Kingwood Town Center", "East End Park"],
+      "serviceHighlights": ["Sewer line repair", "Root removal", "Leak detection"],
+      "coordinates": { "lat": 30.0392, "lng": -95.2594 }
     },
     {
-      "slug": "arvada",
-      "name": "Arvada",
-      "state": "CO",
-      "description": "From Olde Town Arvada's historic homes to newer subdivisions near Candelas, Bright Spark Electric brings licensed electrical expertise to every corner of the city. Arvada homeowners trust us for straightforward pricing and work done right the first time.",
-      "neighborhoods": [
-        "Olde Town Arvada",
-        "Candelas",
-        "Ralston Valley",
-        "West Woods",
-        "Pomona",
-        "Oberon"
-      ],
-      "landmarks": [
-        "Olde Town Arvada",
-        "Majestic View Nature Center",
-        "Arvada Center for the Arts",
-        "Stenger Soccer Complex"
-      ],
-      "serviceHighlights": [
-        "Historic home rewire with minimal drywall disruption",
-        "Solar-ready panel upgrades and battery backup installation",
-        "Service entrance and weatherhead replacement after storm damage"
-      ],
-      "coordinates": {
-        "lat": 39.8028,
-        "lng": -105.0875
-      }
-    },
-    {
-      "slug": "centennial",
-      "name": "Centennial",
-      "state": "CO",
-      "description": "Centennial is one of Colorado's newest cities, but its housing stock spans several decades. Bright Spark Electric serves Centennial homeowners with the electrical expertise their homes deserve — from 1980s subdivisions to custom builds near Cherry Creek State Park.",
-      "neighborhoods": [
-        "Willow Creek",
-        "Foxridge",
-        "Piney Creek",
-        "Smoky Hill",
-        "Homestead Farm",
-        "Cherry Knolls"
-      ],
-      "landmarks": [
-        "Cherry Creek State Park",
-        "Arapahoe County Fairgrounds",
-        "Streets at SouthGlenn",
-        "Centennial Airport"
-      ],
-      "serviceHighlights": [
-        "Aluminum wiring remediation and CO/ALR outlet upgrades",
-        "EV charger installation in attached and detached garages",
-        "Basement finishing electrical — circuits, recessed lighting, home theater"
-      ],
-      "coordinates": {
-        "lat": 39.5807,
-        "lng": -104.8769
-      }
-    },
-    {
-      "slug": "boulder",
-      "name": "Boulder",
-      "state": "CO",
-      "description": "Boulder's progressive community leads the state in solar adoption, EV ownership, and energy-efficient home upgrades. Bright Spark Electric brings the licensed electrical expertise to match Boulder's forward-thinking approach to energy.",
-      "neighborhoods": [
-        "University Hill",
-        "Mapleton Hill",
-        "Whittier",
-        "Newlands",
-        "Martin Acres",
-        "Table Mesa"
-      ],
-      "landmarks": [
-        "Flatirons",
-        "Pearl Street Mall",
-        "University of Colorado Boulder",
-        "Chautauqua Park"
-      ],
-      "serviceHighlights": [
-        "Solar-ready panel upgrades and Xcel interconnect compliance",
-        "Whole-home rewire for historic Boulder bungalows",
-        "EV charger installation — Tesla, ChargePoint, and universal J1772"
-      ],
-      "coordinates": {
-        "lat": 40.015,
-        "lng": -105.2705
-      }
+      "slug": "spring",
+      "name": "Spring",
+      "state": "TX",
+      "description": "From Old Town Spring to the newer developments along the Grand Parkway, we serve Spring homeowners with the same fast, honest service we're known for. New construction plumbing issues and older home repairs are both in our wheelhouse.",
+      "neighborhoods": ["Old Town Spring", "Champions Forest", "Gleannloch Farms"],
+      "landmarks": ["Old Town Spring", "Wet 'n' Wild SplashTown"],
+      "serviceHighlights": ["New home plumbing", "Fixture installation", "Drain cleaning"],
+      "coordinates": { "lat": 30.0799, "lng": -95.4172 }
     }
   ]
 }

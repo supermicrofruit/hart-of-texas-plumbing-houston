@@ -2,112 +2,107 @@
   "projects": [
     {
       "id": 1,
-      "slug": "scottsdale-estate-deep-clean",
-      "title": "Luxury Estate Deep Clean",
-      "location": "Scottsdale, AZ",
-      "category": "Deep Cleaning",
-      "description": "Complete deep cleaning of a 6,500 sq ft luxury estate in North Scottsdale. Tackled years of buildup in a recently purchased home, transforming every room from dusty to dazzling.",
-      "beforeImage": "https://images.pexels.com/photos/4570110/pexels-photo-4570110.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "afterImage": "https://images.pexels.com/photos/19689230/pexels-photo-19689230.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "featuredImage": "https://images.pexels.com/photos/2227832/pexels-photo-2227832.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "slug": "slab-leak-repair",
+      "featuredImage": "https://images.pexels.com/photos/5691639/pexels-photo-5691639.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Slab Leak Detection & Repair",
+      "location": "Houston, TX",
+      "category": "Leak Repair",
+      "description": "Detected and repaired a hidden slab leak using electronic leak detection. Saved the homeowner from foundation damage.",
       "stats": {
-        "sqFt": "6,500",
-        "duration": "2 Days",
-        "team": "4 cleaners"
+        "method": "Trenchless",
+        "duration": "1 Day",
+        "savings": "$5K+ saved"
       },
-      "services": ["Deep Cleaning"],
+      "services": [
+        "Leak Detection"
+      ],
       "featured": true
     },
     {
       "id": 2,
-      "slug": "paradise-valley-move-out",
-      "title": "Move-Out Transformation",
-      "location": "Paradise Valley, AZ",
-      "category": "Move-In/Move-Out",
-      "description": "Complete move-out cleaning for a luxury rental property. The tenants left significant mess, but we restored it to better-than-new condition for the homeowner.",
-      "beforeImage": "https://images.pexels.com/photos/938045/pexels-photo-938045.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "afterImage": "https://images.pexels.com/photos/7865621/pexels-photo-7865621.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "featuredImage": "https://images.pexels.com/photos/7031603/pexels-photo-7031603.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "slug": "tankless-water-heater",
+      "featuredImage": "https://images.pexels.com/photos/8951846/pexels-photo-8951846.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Tankless Water Heater Install",
+      "location": "Houston, TX",
+      "category": "Water Heater",
+      "description": "Replaced a traditional 50-gallon tank with a Rinnai tankless system. Endless hot water and 40% energy savings.",
       "stats": {
-        "sqFt": "3,200",
-        "duration": "1 Day",
-        "result": "Full deposit"
+        "type": "Tankless",
+        "savings": "40% energy",
+        "warranty": "12 Years"
       },
-      "services": ["Move-In/Move-Out Cleaning"],
+      "services": [
+        "Water Heater"
+      ],
       "featured": true
     },
     {
       "id": 3,
-      "slug": "tempe-airbnb-turnover",
-      "title": "Airbnb Quick Turnover",
-      "location": "Tempe, AZ",
-      "category": "Vacation Rental",
-      "description": "Same-day turnover for a busy Airbnb property near ASU. Guest checkout at 11am, new guests arriving at 3pm. Complete clean, fresh linens, and restocking done with time to spare.",
-      "beforeImage": "https://images.pexels.com/photos/7507776/pexels-photo-7507776.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "afterImage": "https://images.pexels.com/photos/14580368/pexels-photo-14580368.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "featuredImage": "https://images.pexels.com/photos/5461582/pexels-photo-5461582.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "slug": "whole-house-repipe",
+      "featuredImage": "https://images.pexels.com/photos/6195105/pexels-photo-6195105.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Whole House Repipe",
+      "location": "Houston, TX",
+      "category": "Repiping",
+      "description": "Complete copper-to-PEX repipe of a 1970s home. Improved water pressure and eliminated galvanized pipe corrosion.",
       "stats": {
-        "turnoverTime": "3 hours",
-        "bedrooms": "3",
-        "guestRating": "5 stars"
+        "sqFt": "2,400",
+        "material": "PEX-A",
+        "duration": "3 Days"
       },
-      "services": ["Airbnb & Vacation Rental"],
-      "featured": true
+      "services": [
+        "Repiping"
+      ]
     },
     {
       "id": 4,
-      "slug": "phoenix-post-renovation",
-      "title": "Post-Renovation Cleanup",
-      "location": "Phoenix, AZ",
-      "category": "Post-Construction",
-      "description": "Kitchen and bathroom renovation left construction dust everywhere. Our team removed drywall dust from every surface, cleaned all new fixtures, and made the space move-in ready.",
-      "beforeImage": "https://images.pexels.com/photos/3990359/pexels-photo-3990359.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "afterImage": "https://images.pexels.com/photos/6301183/pexels-photo-6301183.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "featuredImage": "https://images.pexels.com/photos/6301168/pexels-photo-6301168.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "slug": "sewer-line-replacement",
+      "featuredImage": "https://images.pexels.com/photos/27582561/pexels-photo-27582561.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Sewer Line Replacement",
+      "location": "Houston, TX",
+      "category": "Sewer Service",
+      "description": "Trenchless sewer line replacement using pipe bursting technology. Minimal yard disruption for the homeowner.",
       "stats": {
-        "area": "Kitchen + 2 baths",
-        "duration": "6 hours",
-        "dustRemoved": "Complete"
+        "length": "85 feet",
+        "method": "Trenchless",
+        "duration": "1 Day"
       },
-      "services": ["Post-Construction Cleaning"],
-      "featured": true
+      "services": [
+        "Sewer Line"
+      ]
     },
     {
       "id": 5,
-      "slug": "fountain-hills-weekly-client",
-      "title": "Weekly Home Maintenance",
-      "location": "Fountain Hills, AZ",
-      "category": "Regular Cleaning",
-      "description": "One year of weekly cleaning for a busy family of five. The same cleaner visits every Thursday, keeping their 4-bedroom home consistently spotless despite active kids and pets.",
-      "beforeImage": "https://images.pexels.com/photos/20374786/pexels-photo-20374786.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "afterImage": "https://images.pexels.com/photos/5570222/pexels-photo-5570222.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "featuredImage": "https://images.pexels.com/photos/7018389/pexels-photo-7018389.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "slug": "bathroom-remodel-plumbing",
+      "featuredImage": "https://images.pexels.com/photos/6934184/pexels-photo-6934184.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Master Bath Remodel",
+      "location": "Houston, TX",
+      "category": "Remodel",
+      "description": "Complete plumbing rough-in for a luxury master bath remodel. Dual vanity, walk-in shower, and freestanding tub.",
       "stats": {
-        "frequency": "Weekly",
-        "clientSince": "2023",
-        "bedrooms": "4"
+        "fixtures": "8 Total",
+        "duration": "4 Days",
+        "result": "On budget"
       },
-      "services": ["Regular House Cleaning"],
-      "featured": true
+      "services": [
+        "Remodel Plumbing"
+      ]
     },
     {
       "id": 6,
-      "slug": "cave-creek-office-clean",
-      "title": "Medical Office Deep Clean",
-      "location": "Cave Creek, AZ",
+      "slug": "commercial-backflow",
+      "featuredImage": "https://images.pexels.com/photos/11899171/pexels-photo-11899171.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "title": "Commercial Backflow Install",
+      "location": "Houston, TX",
       "category": "Commercial",
-      "description": "After-hours deep cleaning for a dental office. Sanitized all patient areas, waiting room, and break room. Special attention to high-touch surfaces and medical-grade cleanliness standards.",
-      "beforeImage": "https://images.pexels.com/photos/4756489/pexels-photo-4756489.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "afterImage": "https://images.pexels.com/photos/305568/pexels-photo-305568.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "featuredImage": "https://images.pexels.com/photos/35438269/pexels-photo-35438269.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Installed and certified backflow prevention devices for a restaurant complex. Full code compliance achieved.",
       "stats": {
-        "sqFt": "2,400",
-        "duration": "4 hours",
-        "standard": "Medical grade"
+        "devices": "3 Units",
+        "certified": "RPZ Type",
+        "duration": "1 Day"
       },
-      "services": ["Office Cleaning"],
-      "featured": false
+      "services": [
+        "Commercial Plumbing"
+      ]
     }
-  ],
-  "categories": ["All", "Deep Cleaning", "Move-In/Move-Out", "Vacation Rental", "Post-Construction", "Regular Cleaning", "Commercial"]
+  ]
 }

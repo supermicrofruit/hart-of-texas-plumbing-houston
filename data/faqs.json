@@ -5,82 +5,78 @@
       "slug": "general",
       "faqs": [
         {
-          "question": "How fast can you get here?",
-          "answer": "For Denver and surrounding areas, we typically arrive within 2-4 hours. Electrical emergencies like sparking, burning smells, or complete power loss are prioritized for immediate response."
+          "question": "How fast can you get to my home?",
+          "answer": "For Houston and surrounding areas, Hart Of Texas Plumbing typically arrives within 1 hour. For emergencies like burst pipes or major leaks, we prioritize dispatch and aim to be there within 1 hour."
         },
         {
-          "question": "Are your electricians licensed?",
-          "answer": "Yes, Bright Spark Electric is fully licensed (LIC-ELECTRICAL-27017) and insured. Every electrician on our team is licensed, background-checked, and continuously trained on current codes."
+          "question": "Do you charge for estimates?",
+          "answer": "Estimates for larger jobs like repiping, water heater replacement, and sewer work are always free. For service calls, we charge a diagnostic fee that gets applied toward the repair cost if you choose to proceed with us."
         },
         {
-          "question": "Do you pull permits?",
-          "answer": "Yes, we pull all necessary permits and schedule inspections for work that requires them. This ensures your work is code-compliant and won't cause issues when selling your home."
-        },
-        {
-          "question": "Do you offer free estimates?",
-          "answer": "Yes, estimates for larger projects like panel upgrades, rewiring, and EV charger installation are free. For service calls, we charge a diagnostic fee that's applied to the repair if you proceed."
+          "question": "Are your plumbers licensed and insured?",
+          "answer": "Yes. Hart Of Texas Plumbing is fully licensed and insured in TX. Every plumber on our team holds a valid license, has passed a background check, and receives ongoing training to stay current with codes and best practices."
         },
         {
           "question": "Do you guarantee your work?",
-          "answer": "Absolutely. All electrical work comes with a 2-year warranty. If anything we installed or repaired fails, we'll fix it at no charge."
-        },
-        {
-          "question": "Do you work on commercial properties?",
-          "answer": "We primarily serve residential customers, but we can handle light commercial work. Contact us to discuss your project."
+          "answer": "Absolutely. All repairs come with a 1-year labor warranty. If anything we fixed fails within that period, we will come back and fix it again at no charge. Parts carry their own manufacturer warranties on top of that."
         }
       ]
     },
     {
-      "name": "Repairs",
-      "slug": "repairs",
+      "name": "Drains & Pipes",
+      "slug": "drains-pipes",
       "faqs": [
         {
-          "question": "Why do my lights flicker?",
-          "answer": "Flickering lights can indicate loose connections, overloaded circuits, or problems at the panel. While sometimes minor, persistent flickering should be checked—it can indicate fire hazards."
+          "question": "Why does my drain keep clogging even after I clear it?",
+          "answer": "Recurring clogs usually indicate a deeper problem such as grease buildup in the line, tree root intrusion, or a bellied (sagging) pipe section. A video camera inspection can identify the root cause so we can fix it permanently rather than just clearing the symptom."
         },
         {
-          "question": "Why does my breaker keep tripping?",
-          "answer": "Breakers trip when circuits are overloaded or there's a short circuit. If one breaker trips repeatedly, it may need to be replaced or the circuit may need to be split. This shouldn't be ignored."
+          "question": "Are chemical drain cleaners safe to use?",
+          "answer": "We do not recommend them. Chemical drain cleaners contain caustic ingredients that can corrode pipes over time, especially older metal or PVC plumbing. They also tend to only punch a small hole through the clog rather than clearing it fully. Enzyme-based cleaners are a safer alternative for maintenance, but stubborn clogs should be handled professionally."
         },
         {
-          "question": "Is a burning smell from an outlet dangerous?",
-          "answer": "Yes! A burning smell indicates an electrical problem that could cause a fire. Turn off the circuit at the panel and call us immediately. Don't use the outlet until it's been inspected."
+          "question": "What is hydro jetting and when is it needed?",
+          "answer": "Hydro jetting uses a high-pressure water stream to scour the inside of your pipes, removing grease buildup, mineral deposits, and even tree roots. It is the most thorough drain cleaning method available and is especially effective for recurring clogs or main sewer line issues. Call Hart Of Texas Plumbing at (713) 364-3254 to find out if hydro jetting is right for your situation."
         }
       ]
     },
     {
-      "name": "Panels",
-      "slug": "panels",
+      "name": "Water Heaters",
+      "slug": "water-heaters",
       "faqs": [
         {
-          "question": "When should I upgrade my electrical panel?",
-          "answer": "Consider upgrading if you have a 100-amp panel (most modern homes need 200), frequently trip breakers, are adding major appliances, or plan to add an EV charger or home addition."
+          "question": "How long should my water heater last?",
+          "answer": "Traditional tank water heaters typically last 8-12 years, while tankless models can last 20 years or more with proper maintenance. If your tank heater is over 10 years old and showing signs of rust, leaking, or inconsistent heating, it is usually more cost-effective to replace rather than repair."
         },
         {
-          "question": "How much does a panel upgrade cost?",
-          "answer": "Panel upgrades typically range from $1,500-$3,500 depending on scope. Factors include current amperage, new amperage needed, and any additional work required. We provide free detailed estimates."
+          "question": "Should I switch to a tankless water heater?",
+          "answer": "Tankless heaters cost more upfront but provide endless hot water, use 24-34% less energy, and last nearly twice as long. They are especially beneficial for larger families or homes with multiple bathrooms. Hart Of Texas Plumbing offers free consultations to help you compare the options for your specific home and usage."
         },
         {
-          "question": "How long does a panel upgrade take?",
-          "answer": "Most panel upgrades are completed in one day. The power will be off for 4-8 hours during the upgrade. We'll coordinate with your utility company for temporary disconnection."
+          "question": "Why is my water heater making popping or rumbling noises?",
+          "answer": "Those sounds are almost always caused by sediment buildup at the bottom of the tank. As the burner heats water trapped beneath the sediment layer, it creates steam bubbles that pop. Annual flushing can resolve this. If the noise is severe or the unit is old, it may be time for a replacement."
+        },
+        {
+          "question": "My water heater is leaking from the bottom. Can it be repaired?",
+          "answer": "A leak from the bottom of a tank water heater usually means the inner tank has corroded through, which cannot be repaired. This is a sign the unit needs replacement. Turn off the power and water supply and call Hart Of Texas Plumbing at (713) 364-3254 for same-day water heater replacement service."
         }
       ]
     },
     {
-      "name": "Ev Chargers",
-      "slug": "ev-chargers",
+      "name": "Emergency Plumbing",
+      "slug": "emergency",
       "faqs": [
         {
-          "question": "What's the difference between Level 1 and Level 2 charging?",
-          "answer": "Level 1 uses a standard 120V outlet and adds about 4-5 miles of range per hour. Level 2 uses a 240V circuit and adds 25-30 miles per hour. Most EV owners prefer Level 2 for overnight charging."
+          "question": "Do you offer 24/7 emergency service?",
+          "answer": "Yes. Hart Of Texas Plumbing has licensed plumbers on call around the clock, including weekends and holidays. Our trucks are fully stocked so we can handle most emergencies in a single visit. Call (713) 364-3254 any time, day or night."
         },
         {
-          "question": "Does my panel support an EV charger?",
-          "answer": "EV chargers typically need a 50-amp dedicated circuit. We'll assess your panel's capacity and recommend any needed upgrades. Many homes can add a charger without panel upgrades."
+          "question": "A pipe burst in my home. What should I do right now?",
+          "answer": "First, shut off your main water valve immediately to stop the flow. Then turn off electricity to the affected area if water is near outlets or appliances. Move valuables away from the water. Then call Hart Of Texas Plumbing at (713) 364-3254 for emergency response. We will walk you through additional steps over the phone while a plumber is dispatched."
         },
         {
-          "question": "Can I get rebates for EV charger installation?",
-          "answer": "Many utilities and states offer rebates for EV charger installation. We can help you identify available rebates and provide documentation needed to claim them."
+          "question": "Is there an extra charge for after-hours or weekend service?",
+          "answer": "We keep our emergency rates fair and transparent. While after-hours calls may carry a modest service fee, we always provide an upfront quote before starting work. There are no hidden charges or surprise bills with Hart Of Texas Plumbing."
         }
       ]
     }

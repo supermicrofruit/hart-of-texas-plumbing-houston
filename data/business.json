@@ -1,41 +1,39 @@
 {
-  "name": "Bright Spark Electric",
-  "phone": "(303) 555-0176",
-  "phoneRaw": "+13035550176",
+  "name": "Hart Of Texas Plumbing",
+  "phone": "(713) 364-3254",
+  "phoneRaw": "+17133643254",
   "address": {
-    "street": "1550 Larimer St",
-    "city": "Denver",
-    "state": "CO",
-    "zip": "80202",
-    "full": "1550 Larimer St, Denver, CO 80202"
+    "street": "Houston Area",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77396",
+    "full": "Houston, TX"
   },
-  "coordinates": {
-    "lat": 39.7392,
-    "lng": -104.9903
-  },
-  "vertical": "electrical",
-  "region": "Denver Metro",
-  "rating": 4.7,
-  "reviewCount": 312,
-  "established": 2015,
+  "vertical": "plumbing",
+  "rating": 5,
+  "reviewCount": 15,
+  "legalName": "Hart Of Texas Plumbing",
+  "description": "Houston's trusted plumbing contractor. Call (713) 364-3254 for reliable service.",
+  "established": 2016,
   "licenses": [],
   "certifications": [],
-  "socialMedia": {},
   "emergencyService": true,
-  "financing": true,
+  "financing": false,
   "freeEstimates": true,
+  "responseTime": "1 hour",
+  "warrantyYears": 1,
   "hours": {
-    "weekdays": "7:00 AM - 6:00 PM",
-    "saturday": "8:00 AM - 4:00 PM",
+    "weekdays": "8:00 AM - 6:00 PM",
+    "saturday": "9:00 AM - 4:00 PM",
     "sunday": "Closed",
     "structured": [
       {
         "days": "Monday - Friday",
-        "hours": "7:00 AM - 6:00 PM"
+        "hours": "8:00 AM - 6:00 PM"
       },
       {
         "days": "Saturday",
-        "hours": "8:00 AM - 4:00 PM"
+        "hours": "9:00 AM - 4:00 PM"
       },
       {
         "days": "Sunday",
@@ -43,21 +41,21 @@
       }
     ]
   },
+  "socialMedia": {},
   "features": {
     "showTeam": false,
     "showBlog": true,
     "showWorks": true,
-    "showFinancing": true,
+    "showFinancing": false,
     "emergencyBadge": false,
     "callbackWidget": true,
-    "stickyPhone": true
+    "stickyPhone": true,
+    "showServiceAreaPages": false,
+    "showCostGuides": false,
+    "showChecklists": false
   },
   "seo": {
-    "titleTemplate": "%s | Bright Spark Electric",
-    "defaultDescription": "Professional electrical services in Denver, CO. 4.7-star rated with 312+ reviews."
-  },
-  "forms": {
-    "successMessage": "Thanks! We'll be in touch within 1 business hour.",
-    "errorMessage": "Something went wrong. Please call us directly."
+    "titleTemplate": "%s | Hart Of Texas Plumbing Houston",
+    "defaultDescription": "Houston's trusted plumbing contractor. Call (713) 364-3254 for a free estimate."
   }
 }
