@@ -1,44 +1,54 @@
 {
-  "primaryServiceArea": "Houston",
+  "primaryServiceArea": "Humble",
   "areas": [
-    {
-      "slug": "houston",
-      "name": "Houston",
-      "state": "TX",
-      "description": "As our home base, we serve all of Houston with reliable plumbing and drain cleaning. From the Heights to Meyerland, Montrose to Clear Lake, our plumbers know the city and its aging infrastructure. Houston's clay soil and shifting foundations create unique plumbing challenges we deal with every day.",
-      "neighborhoods": ["The Heights", "Montrose", "Midtown", "River Oaks", "Meyerland", "Memorial"],
-      "landmarks": ["Memorial Park", "Houston Galleria", "NRG Stadium"],
-      "serviceHighlights": ["Emergency plumbing", "Slab leak repair", "Drain cleaning"],
-      "coordinates": { "lat": 29.7604, "lng": -95.3698 }
-    },
     {
       "slug": "humble",
       "name": "Humble",
       "state": "TX",
-      "description": "We provide fast plumbing service to Humble and the Atascocita area. Many homes here were built in the 90s and 2000s, and are starting to see issues with water heaters, supply lines, and drain systems. We know these neighborhoods well.",
-      "neighborhoods": ["Atascocita", "Fall Creek", "Eagle Springs", "Lakeshore"],
-      "landmarks": ["Deerbrook Mall", "Humble Civic Center"],
-      "serviceHighlights": ["Water heater service", "Drain cleaning", "Repiping"],
+      "description": "Our home base. Hart Of Texas Plumbing & Drain Cleaning is proudly based in Humble, TX, serving our local community with professional plumbing and drain cleaning. We know this area inside and out — the homes, the infrastructure, and the plumbing challenges that come with Texas weather and clay soil.",
+      "neighborhoods": ["Humble Town Center", "Fall Creek", "Eagle Springs", "Lakeshore", "Deerbrook"],
+      "landmarks": ["Deerbrook Mall", "Humble Civic Center", "Jesse H. Jones Park"],
+      "serviceHighlights": ["Emergency plumbing", "Drain cleaning", "Water heater service"],
       "coordinates": { "lat": 29.9988, "lng": -95.2622 }
     },
     {
       "slug": "kingwood",
       "name": "Kingwood",
       "state": "TX",
-      "description": "Kingwood's established neighborhoods have mature trees and well-used plumbing systems. Root intrusion, aging pipes, and water heater failures are common calls we handle here. Our plumbers provide prompt, professional service throughout the Kingwood area.",
-      "neighborhoods": ["Kingwood Lakes", "Forest Cove", "Greentree Village", "Woodland Hills"],
+      "description": "Kingwood's established neighborhoods have mature trees and well-used plumbing systems. Root intrusion into sewer lines, aging water heaters, and pipe corrosion are common issues we handle here regularly. Fast response times from our Humble base.",
+      "neighborhoods": ["Kingwood Lakes", "Forest Cove", "Greentree Village", "Woodland Hills", "Kings Manor"],
       "landmarks": ["Kingwood Town Center", "East End Park"],
-      "serviceHighlights": ["Sewer line repair", "Root removal", "Leak detection"],
+      "serviceHighlights": ["Sewer line repair", "Root removal", "Repiping"],
       "coordinates": { "lat": 30.0392, "lng": -95.2594 }
+    },
+    {
+      "slug": "atascocita",
+      "name": "Atascocita",
+      "state": "TX",
+      "description": "We serve Atascocita homeowners with the same fast, honest service we provide across the Greater Houston area. From newer subdivisions to established homes, we handle every plumbing challenge with 16 years of experience.",
+      "neighborhoods": ["Atascocita Shores", "Atascocita Forest", "Summerwood", "Lakeshore"],
+      "landmarks": ["Atascocita Town Center", "Lake Houston"],
+      "serviceHighlights": ["Drain cleaning", "Leak detection", "Fixture installation"],
+      "coordinates": { "lat": 29.9985, "lng": -95.1768 }
+    },
+    {
+      "slug": "the-woodlands",
+      "name": "The Woodlands",
+      "state": "TX",
+      "description": "The Woodlands residents trust Hart Of Texas for reliable plumbing service. We handle everything from routine repairs to emergency calls, with honest pricing and professional workmanship every time.",
+      "neighborhoods": ["Panther Creek", "Indian Springs", "Grogan's Mill", "Sterling Ridge"],
+      "landmarks": ["The Woodlands Mall", "The Cynthia Woods Mitchell Pavilion"],
+      "serviceHighlights": ["Water heater service", "Gas line services", "Sewer inspections"],
+      "coordinates": { "lat": 30.1658, "lng": -95.4613 }
     },
     {
       "slug": "spring",
       "name": "Spring",
       "state": "TX",
-      "description": "From Old Town Spring to the newer developments along the Grand Parkway, we serve Spring homeowners with the same fast, honest service we're known for. New construction plumbing issues and older home repairs are both in our wheelhouse.",
-      "neighborhoods": ["Old Town Spring", "Champions Forest", "Gleannloch Farms"],
+      "description": "From Old Town Spring to the newer developments along the Grand Parkway, we serve Spring homeowners with dependable plumbing and drain cleaning. Both new construction issues and older home repairs are in our wheelhouse.",
+      "neighborhoods": ["Old Town Spring", "Champions Forest", "Gleannloch Farms", "Klein"],
       "landmarks": ["Old Town Spring", "Wet 'n' Wild SplashTown"],
-      "serviceHighlights": ["New home plumbing", "Fixture installation", "Drain cleaning"],
+      "serviceHighlights": ["New home plumbing", "Drain cleaning", "Pipe repair"],
       "coordinates": { "lat": 30.0799, "lng": -95.4172 }
     }
   ]

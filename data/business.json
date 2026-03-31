@@ -1,20 +1,21 @@
 {
-  "name": "Hart Of Texas Plumbing",
+  "name": "Hart Of Texas Plumbing & Drain Cleaning",
   "phone": "(713) 364-3254",
   "phoneRaw": "+17133643254",
   "address": {
-    "street": "Houston Area",
-    "city": "Houston",
+    "street": "Humble Area",
+    "city": "Humble",
     "state": "TX",
     "zip": "77396",
-    "full": "Houston, TX"
+    "full": "Humble, TX"
   },
   "vertical": "plumbing",
   "rating": 5,
   "reviewCount": 15,
-  "legalName": "Hart Of Texas Plumbing",
-  "description": "Houston's trusted plumbing contractor. Call (713) 364-3254 for reliable service.",
-  "established": 2016,
+  "legalName": "Hart Of Texas Plumbing & Drain Cleaning",
+  "description": "Humble-based plumbing and drain cleaning serving the Greater Houston area. Over 16 years of experience. Call (713) 364-3254.",
+  "established": 2010,
+  "yearsInBusiness": 16,
   "licenses": [],
   "certifications": [],
   "emergencyService": true,
@@ -27,35 +28,31 @@
     "saturday": "9:00 AM - 4:00 PM",
     "sunday": "Closed",
     "structured": [
-      {
-        "days": "Monday - Friday",
-        "hours": "8:00 AM - 6:00 PM"
-      },
-      {
-        "days": "Saturday",
-        "hours": "9:00 AM - 4:00 PM"
-      },
-      {
-        "days": "Sunday",
-        "hours": "Closed"
-      }
+      { "days": "Monday - Friday", "hours": "8:00 AM - 6:00 PM" },
+      { "days": "Saturday", "hours": "9:00 AM - 4:00 PM" },
+      { "days": "Sunday", "hours": "Closed" }
     ]
   },
-  "socialMedia": {},
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/people/Hart-Of-Texas-Plumbing-Drain-Cleaning/61583487227239/"
+  },
+  "theme": {
+    "logo": "https://scontent.furt3-1.fna.fbcdn.net/v/t39.30808-6/587813864_122106652611116240_2049097391136261632_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=1NT3raI6ZF8Q7kNvwHRudCO&_nc_oc=AdrPFwTikaCwgmMOpNCdYeGb6EGboEMiPSTSteaEePE7F-YY1O8Uu09Ad-0NI4u0ymJld7jTFgK05zPzKpoBQrQJ&_nc_zt=23&_nc_ht=scontent.furt3-1.fna&_nc_gid=6Wko_R6Btv-w7icjHY4fwQ&_nc_ss=7a389&oh=00_Afxe606RfGUw0Z2sgqDpIWlFDnVl_kPUG7j1MUoihOWjFQ&oe=69D1628B"
+  },
   "features": {
     "showTeam": false,
     "showBlog": true,
     "showWorks": true,
     "showFinancing": false,
-    "emergencyBadge": false,
+    "emergencyBadge": true,
     "callbackWidget": true,
     "stickyPhone": true,
-    "showServiceAreaPages": false,
+    "showServiceAreaPages": true,
     "showCostGuides": false,
     "showChecklists": false
   },
   "seo": {
-    "titleTemplate": "%s | Hart Of Texas Plumbing Houston",
-    "defaultDescription": "Houston's trusted plumbing contractor. Call (713) 364-3254 for a free estimate."
+    "titleTemplate": "%s | Hart Of Texas Plumbing & Drain Cleaning",
+    "defaultDescription": "Humble-based plumbing and drain cleaning serving the Greater Houston area. 16+ years experience. Call (713) 364-3254 for a free estimate."
   }
 }

@@ -1,76 +1,75 @@
 {
   "hero": {
-    "headline": "Houston's Trusted",
-    "headlineAccent": "Plumbing Experts",
-    "description": "Family-owned plumbing and drain cleaning serving the Houston area. 5-star rated with fast response times and honest pricing.",
+    "headline": "Texas-Strong Plumbing",
+    "headlineAccent": "You Can Trust",
+    "description": "Humble-based, proudly serving the Greater Houston area with honest, high-quality plumbing and drain cleaning for residential and commercial customers.",
     "heroBackgroundImage": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_2560,h_1440,q_auto:best,f_auto/foundlio/verticals/hero-plumbing-split.jpg",
-    "imageAlt": "Hart Of Texas Plumbing professional service truck"
+    "imageAlt": "Hart Of Texas Plumbing professional service"
   },
   "trust": {
     "items": [
       { "icon": "Star", "label": "5.0 Stars", "value": "Google Rating" },
-      { "icon": "Clock", "label": "1-Hour Response", "value": "Fast Service" },
+      { "icon": "Clock", "label": "16+ Years", "value": "Experience" },
       { "icon": "Shield", "label": "Licensed & Insured", "value": "Full Coverage" },
-      { "icon": "DollarSign", "label": "Free Estimates", "value": "No Surprises" }
+      { "icon": "DollarSign", "label": "Free Estimates", "value": "Honest Pricing" }
     ]
   },
   "mediaBar": {
-    "tagline": "Serving Houston and surrounding areas since 2016 — Call (713) 364-3254"
+    "tagline": "Serving Humble, Kingwood, Atascocita, The Woodlands & Greater Houston — Call (713) 364-3254"
   },
   "servicesSection": {
-    "headline": "Our Plumbing Services",
-    "description": "From routine repairs to emergency drain cleaning, we handle it all with care and expertise."
+    "headline": "Professional Plumbing Services",
+    "description": "From drain cleaning and sewer repair to water heaters and gas lines — honest pricing, expert workmanship, and dependable service."
   },
   "processSection": {
     "headline": "How It Works",
-    "description": "Getting your plumbing fixed shouldn't be complicated.",
+    "description": "Built on experience. Driven by integrity.",
     "steps": [
-      { "title": "Call Us", "description": "Reach us at (713) 364-3254. We'll ask a few questions to understand your issue and schedule a visit.", "icon": "Phone" },
-      { "title": "On-Site Diagnosis", "description": "Our licensed plumber arrives on time, inspects the problem, and gives you an honest quote before any work starts.", "icon": "Search" },
-      { "title": "Expert Repair", "description": "We fix it right the first time using quality parts and proven techniques. No shortcuts.", "icon": "Wrench" },
-      { "title": "Your Approval", "description": "We walk you through what we did, clean up, and make sure you're satisfied before we leave.", "icon": "CheckCircle" }
+      { "title": "Call or Text", "description": "Reach us at (713) 364-3254. Describe your issue and we'll schedule a visit that works for you.", "icon": "Phone" },
+      { "title": "On-Site Assessment", "description": "Our experienced plumber arrives on time, diagnoses the problem, and gives you an honest quote before any work begins.", "icon": "Search" },
+      { "title": "Expert Repair", "description": "With 16 years of hands-on expertise, we fix it right the first time. No shortcuts, no surprises.", "icon": "Wrench" }
     ]
   },
   "worksSection": {
     "headline": "Recent Projects",
-    "description": "A look at some of the plumbing work we've completed for Houston homeowners."
+    "description": "A look at plumbing work we've completed across the Greater Houston area."
   },
   "testimonialsSection": {
     "headline": "What Our Customers Say",
-    "description": "Don't just take our word for it. Here's what Houston residents say about our work."
+    "description": "5-star rated on Google. Here's why Humble trusts Hart Of Texas."
   },
   "aboutSection": {
-    "description": "Hart Of Texas Plumbing & Drain Cleaning is a family-owned plumbing company serving the greater Houston area. Founded in 2016, we've built our reputation on honest pricing, fast response times, and quality workmanship. Our licensed plumbers handle everything from leaky faucets and clogged drains to full repiping and sewer line repair. We treat every home like our own and every customer like a neighbor.",
-    "mission": "To provide reliable, affordable plumbing services to Houston families with integrity and respect.",
+    "description": "Hart Of Texas Plumbing & Drain Cleaning is a Humble-based, family-owned plumbing company proudly serving the Greater Houston area. With over 16 years of hands-on plumbing expertise, we deliver reliable repairs, quality installations, and honest pricing to both residential and commercial customers. We serve Humble, Kingwood, Atascocita, Summerwood, Huffman, The Woodlands, Spring, New Caney, Porter, Baytown, Friendswood, and Pearland.",
+    "mission": "To provide Texas-strong plumbing service built on experience and driven by integrity.",
     "values": [
-      { "title": "Honest Pricing", "description": "We quote before we start. No hidden fees, no surprise charges. Ever.", "icon": "DollarSign" },
-      { "title": "Fast Response", "description": "Plumbing emergencies don't wait. Neither do we. Same-day service available.", "icon": "Clock" },
-      { "title": "Quality Work", "description": "Licensed plumbers using quality parts. We fix it right the first time with a warranty.", "icon": "Shield" }
+      { "title": "Honest Pricing", "description": "We quote before we start. No hidden fees, no surprise charges. What we say is what you pay.", "icon": "DollarSign" },
+      { "title": "16 Years Experience", "description": "Over 16 years of hands-on plumbing expertise serving the Greater Houston area.", "icon": "Award" },
+      { "title": "Dependable Service", "description": "We show up on time, do the job right, and stand behind our work.", "icon": "Shield" }
     ],
     "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/verticals/generic-about-us.jpg"
   },
   "faqSection": {
     "headline": "Common Questions",
-    "description": "Answers to questions Houston homeowners ask most."
+    "description": "Answers to questions our customers in Humble and Houston ask most."
   },
   "blogSection": {
     "headline": "Plumbing Tips & Advice",
     "description": "Helpful articles to keep your home's plumbing running smoothly."
   },
   "ctaBanner": {
-    "headline": "Need a Plumber Today?",
-    "description": "Call Hart Of Texas Plumbing for fast, reliable service in the Houston area. Free estimates on all work.",
+    "headline": "Need a Plumber in Humble or Houston?",
+    "description": "Hart Of Texas Plumbing & Drain Cleaning — 16+ years serving the Greater Houston area. Free estimates on all work.",
     "buttonText": "Call (713) 364-3254",
     "buttonHref": "tel:+17133643254"
   },
   "pages": {
-    "services": { "headline": "Our Plumbing Services", "description": "Complete plumbing solutions for Houston homes and businesses." },
-    "about": { "headline": "About Hart Of Texas Plumbing", "description": "Family-owned, Houston-based, and committed to quality since 2016." },
-    "contact": { "headline": "Contact Us", "description": "Get in touch for a free estimate or emergency plumbing service." },
-    "areas": { "headline": "Areas We Serve", "description": "Providing plumbing services across the greater Houston area." },
-    "blog": { "headline": "Plumbing Tips & Advice", "description": "Expert plumbing tips for Houston homeowners." },
-    "works": { "headline": "Our Work", "description": "Recent plumbing projects completed by our team." },
+    "services": { "headline": "Professional Plumbing Services", "description": "Complete plumbing solutions for Humble and Greater Houston homes and businesses." },
+    "about": { "headline": "About Hart Of Texas Plumbing", "description": "Humble-based, family-owned, and serving the Greater Houston area for 16+ years." },
+    "contact": { "headline": "Contact Us", "description": "Call, text, or fill out the form. We're here and ready to help." },
+    "areas": { "headline": "Areas We Serve", "description": "Proudly serving Humble, Kingwood, Atascocita, The Woodlands, and the Greater Houston area." },
+    "blog": { "headline": "Plumbing Tips & Advice", "description": "Expert plumbing tips for Houston area homeowners." },
+    "works": { "headline": "Our Work", "description": "Recent plumbing projects completed across the Greater Houston area." },
     "financing": { "headline": "Financing Options", "description": "Flexible payment options for larger plumbing projects." },
-    "emergencyTips": { "headline": "Emergency Plumbing Tips", "description": "What to do when you have a plumbing emergency." }
+    "emergencyTips": { "headline": "Emergency Plumbing Tips", "description": "What to do when you have a plumbing emergency in your home." }
   }
 }

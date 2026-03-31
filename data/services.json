@@ -1,87 +1,78 @@
 {
   "categories": [
-    { "slug": "residential", "name": "Residential Plumbing", "shortName": "Residential", "icon": "House", "description": "Complete plumbing services for Houston homes." },
-    { "slug": "drain-services", "name": "Drain & Sewer", "shortName": "Drains", "icon": "Droplets", "description": "Professional drain cleaning and sewer repair." }
+    { "slug": "plumbing", "name": "Plumbing Services", "shortName": "Plumbing", "icon": "Wrench", "description": "Professional plumbing repairs, installations, and system upgrades." },
+    { "slug": "drain-sewer", "name": "Drain & Sewer", "shortName": "Drains", "icon": "Droplets", "description": "Drain cleaning, sewer inspections, and sewer line services." },
+    { "slug": "specialty", "name": "Specialty Services", "shortName": "Specialty", "icon": "Flame", "description": "Water heater and gas line services for your home." }
   ],
   "services": [
     {
+      "slug": "professional-plumbing",
+      "name": "Professional Plumbing Services",
+      "shortDescription": "Professional plumbing repairs, installations, and system upgrades for residential and commercial customers in the Greater Houston area.",
+      "longDescription": "From leaky faucets and running toilets to full repiping and fixture installations, our licensed plumbers handle it all. With over 16 years of hands-on experience, we deliver honest pricing, expert workmanship, and dependable service you can rely on. We serve Humble, Kingwood, Atascocita, and the entire Greater Houston area.",
+      "icon": "Wrench",
+      "features": ["Leak repair", "Pipe repair & replacement", "Fixture installation", "Repiping", "Backflow prevention", "Commercial plumbing"],
+      "category": "plumbing",
+      "metaTitle": "Professional Plumbing Services Humble TX | Hart Of Texas",
+      "metaDescription": "Professional plumbing repairs and installations in Humble and Greater Houston. 16+ years experience. Call (713) 364-3254."
+    },
+    {
       "slug": "drain-cleaning",
       "name": "Drain Cleaning",
-      "shortDescription": "Professional drain cleaning to restore flow and prevent backups in your Houston home.",
-      "longDescription": "Slow drains and recurring clogs are more than an inconvenience. Our drain cleaning service uses professional-grade equipment to clear blockages in kitchen sinks, bathroom drains, and floor drains. We identify the root cause so the problem doesn't come back next week.",
+      "shortDescription": "Professional drain cleaning, sewer camera inspections, and hydro jetting for residential and commercial customers.",
+      "longDescription": "Clogged or slow drains disrupt your daily routine and can lead to bigger problems if ignored. Our drain cleaning service uses professional-grade equipment including sewer camera inspections and hydro jetting to clear blockages and identify root causes. We handle kitchen drains, bathroom drains, floor drains, and main sewer lines across the Greater Houston area.",
       "icon": "Droplets",
-      "features": ["Hydro jetting", "Camera inspection", "Kitchen & bath drains", "Floor drains", "Preventive maintenance"],
-      "category": "drain-services",
+      "features": ["Hydro jetting", "Sewer camera inspection", "Kitchen & bath drains", "Main line cleaning", "Preventive maintenance"],
+      "category": "drain-sewer",
       "emergency": true,
-      "metaTitle": "Drain Cleaning Houston TX | Hart Of Texas Plumbing",
-      "metaDescription": "Professional drain cleaning in Houston. Fast service, honest pricing. Call (713) 364-3254 for same-day appointments."
+      "metaTitle": "Drain Cleaning Humble & Houston TX | Hart Of Texas Plumbing",
+      "metaDescription": "Professional drain cleaning in Humble and Greater Houston. Camera inspections, hydro jetting. Call (713) 364-3254."
     },
     {
-      "slug": "sewer-line-repair",
-      "name": "Sewer Line Repair",
-      "shortDescription": "Expert sewer line diagnosis and repair for Houston properties.",
-      "longDescription": "Sewer line problems can cause serious damage if left unchecked. We use camera inspection to pinpoint the issue, then recommend the most cost-effective repair. From spot repairs to full line replacement, we handle it with minimal disruption to your yard.",
-      "icon": "PipelineIcon",
-      "features": ["Camera inspection", "Trenchless repair", "Line replacement", "Root removal"],
-      "category": "drain-services",
-      "metaTitle": "Sewer Line Repair Houston | Hart Of Texas Plumbing",
-      "metaDescription": "Sewer line repair and replacement in Houston TX. Camera inspection, trenchless options. Call (713) 364-3254."
-    },
-    {
-      "slug": "leak-detection-repair",
-      "name": "Leak Detection & Repair",
-      "shortDescription": "Find and fix hidden leaks before they cause costly water damage.",
-      "longDescription": "A small leak can waste thousands of gallons and cause mold, rot, and structural damage. Our leak detection service locates hidden leaks in walls, under slabs, and in supply lines using specialized equipment. Once found, we repair it properly the first time.",
-      "icon": "Scan",
-      "features": ["Electronic leak detection", "Slab leak repair", "Pipe repair", "Water damage prevention"],
-      "category": "residential",
-      "emergency": true,
-      "metaTitle": "Leak Detection Houston TX | Hart Of Texas Plumbing",
-      "metaDescription": "Expert leak detection and repair in Houston. Electronic detection, slab leaks, pipe repair. Call (713) 364-3254."
-    },
-    {
-      "slug": "water-heater-service",
-      "name": "Water Heater Service",
-      "shortDescription": "Water heater installation, repair, and replacement for Houston homes.",
-      "longDescription": "No hot water is a problem that needs fixing fast. We service all major brands of tank and tankless water heaters. Whether you need a repair, a new installation, or advice on upgrading to a more efficient unit, we'll give you honest recommendations.",
-      "icon": "Flame",
-      "features": ["Tank & tankless", "Installation", "Repair", "Same-day service", "All major brands"],
-      "category": "residential",
-      "metaTitle": "Water Heater Service Houston | Hart Of Texas Plumbing",
-      "metaDescription": "Water heater repair and installation in Houston TX. Tank and tankless. Call (713) 364-3254 for same-day service."
-    },
-    {
-      "slug": "toilet-repair",
-      "name": "Toilet Repair & Installation",
-      "shortDescription": "Running toilets, clogs, and new installations handled professionally.",
-      "longDescription": "A running toilet wastes water and money. A clogged toilet is an emergency. We fix both quickly. Our plumbers handle everything from simple flapper replacements to full toilet installations, always with upfront pricing and clean workmanship.",
-      "icon": "Wrench",
-      "features": ["Clog removal", "Running toilet fix", "New installation", "Low-flow upgrades"],
-      "category": "residential",
-      "metaTitle": "Toilet Repair Houston TX | Hart Of Texas Plumbing",
-      "metaDescription": "Toilet repair and installation in Houston. Fast, clean service. Call (713) 364-3254."
-    },
-    {
-      "slug": "faucet-fixture-repair",
-      "name": "Faucet & Fixture Repair",
-      "shortDescription": "Leaky faucets, broken fixtures, and new installations throughout your home.",
-      "longDescription": "Dripping faucets and worn-out fixtures waste water and look bad. We repair and replace kitchen faucets, bathroom fixtures, showerheads, and outdoor spigots. Bring your own fixture or choose from our trusted brands.",
-      "icon": "Droplet",
-      "features": ["Kitchen faucets", "Bathroom fixtures", "Showerheads", "Outdoor spigots", "Garbage disposals"],
-      "category": "residential",
-      "metaTitle": "Faucet Repair Houston TX | Hart Of Texas Plumbing",
-      "metaDescription": "Faucet and fixture repair in Houston. Kitchen, bathroom, outdoor. Call (713) 364-3254."
-    },
-    {
-      "slug": "repiping",
-      "name": "Whole-Home Repiping",
-      "shortDescription": "Upgrade old, corroded pipes to modern materials for better water flow and quality.",
-      "longDescription": "Homes with galvanized or polybutylene pipes eventually need repiping. Discolored water, low pressure, and frequent leaks are signs it's time. We replace old pipes with modern PEX or copper, improving water quality, pressure, and peace of mind.",
+      "slug": "sewer-line-services",
+      "name": "Sewer Line Services",
+      "shortDescription": "Professional sewer line inspections, repair, replacements, and maintenance for residential and commercial customers.",
+      "longDescription": "From minor blockages and damaged sections to full sewer line replacements and trenchless solutions, we handle sewer problems with expertise and care. Our sewer camera inspections pinpoint issues accurately so you know exactly what needs fixing before any work begins. We serve the entire Greater Houston area with honest pricing and dependable service.",
       "icon": "GitBranch",
-      "features": ["PEX & copper", "Galvanized replacement", "Improved water quality", "Better pressure", "Warranty included"],
-      "category": "residential",
-      "metaTitle": "Repiping Houston TX | Hart Of Texas Plumbing",
-      "metaDescription": "Whole-home repiping in Houston. Replace old galvanized pipes with PEX or copper. Call (713) 364-3254."
+      "features": ["Camera inspection", "Trenchless repair", "Line replacement", "Root removal", "Spot repairs"],
+      "category": "drain-sewer",
+      "metaTitle": "Sewer Line Services Humble TX | Hart Of Texas Plumbing",
+      "metaDescription": "Sewer line repair and replacement in Humble and Greater Houston. Trenchless options available. Call (713) 364-3254."
+    },
+    {
+      "slug": "water-heater-services",
+      "name": "Water Heater Services",
+      "shortDescription": "Professional water heater repair, replacement, installation, and maintenance for traditional tank and tankless systems.",
+      "longDescription": "From traditional tank water heaters to modern tankless systems, we deliver expert water heater service you can count on. Whether you need a repair, a new installation, or advice on upgrading to a more efficient system, our experienced plumbers will give you honest recommendations and quality workmanship. We service all major brands.",
+      "icon": "Flame",
+      "features": ["Tank water heaters", "Tankless systems", "Repair & maintenance", "New installation", "All major brands", "Same-day service"],
+      "category": "specialty",
+      "metaTitle": "Water Heater Services Humble TX | Hart Of Texas Plumbing",
+      "metaDescription": "Water heater repair, replacement, and installation in Humble and Greater Houston. Tank and tankless. Call (713) 364-3254."
+    },
+    {
+      "slug": "gas-line-services",
+      "name": "Gas Line Services",
+      "shortDescription": "Professional gas line installation, repair, and safety services for natural gas and propane systems.",
+      "longDescription": "Gas line work requires precision and expertise. From natural gas and propane systems to appliance connections and leak detection, we handle gas line services safely and professionally. Whether you need a new gas line run for a stove, dryer, or outdoor grill, or suspect a gas leak that needs immediate attention, our licensed plumbers are ready to help.",
+      "icon": "Flame",
+      "features": ["Gas leak detection", "New line installation", "Appliance hookups", "Propane systems", "Safety inspections"],
+      "category": "specialty",
+      "emergency": true,
+      "metaTitle": "Gas Line Services Humble TX | Hart Of Texas Plumbing",
+      "metaDescription": "Gas line installation, repair, and leak detection in Humble and Greater Houston. Call (713) 364-3254."
+    },
+    {
+      "slug": "emergency-plumbing",
+      "name": "Emergency Plumbing",
+      "shortDescription": "Fast emergency plumbing response for burst pipes, major leaks, sewer backups, and gas leaks in the Greater Houston area.",
+      "longDescription": "Plumbing emergencies don't wait for business hours. Burst pipes, sewer backups, gas leaks, and flooding need immediate attention. Hart Of Texas Plumbing provides fast emergency response across Humble, Kingwood, Atascocita, and the Greater Houston area. Call us and we'll be there as quickly as possible to stop the damage and fix the problem.",
+      "icon": "Siren",
+      "features": ["Burst pipe repair", "Sewer backup", "Gas leak response", "Flooding", "After-hours service"],
+      "category": "plumbing",
+      "emergency": true,
+      "metaTitle": "Emergency Plumbing Humble TX | Hart Of Texas Plumbing",
+      "metaDescription": "Emergency plumbing service in Humble and Greater Houston. Fast response for burst pipes, leaks, sewer backups. Call (713) 364-3254."
     }
   ]
 }
