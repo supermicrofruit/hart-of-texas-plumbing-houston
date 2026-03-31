@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "How quickly can you get to my home?",
+          "answer": "For {{city}} and surrounding areas, we typically arrive within {{responseTime}} for standard calls. Emergency calls are prioritized and we aim to be there within 1-2 hours. Call {{phone}} to check current availability."
+        },
+        {
+          "question": "Do you offer free estimates?",
+          "answer": "Yes, {{businessName}} provides free in-home estimates for all installations and system replacements. For diagnostic and repair calls, we charge a service fee that is waived if you proceed with the recommended repair."
+        },
+        {
+          "question": "Are you licensed and insured?",
+          "answer": "Absolutely. {{businessName}} is fully licensed ({{licenseNumber}}), bonded, and insured. All of our technicians are background-checked, drug-tested, and hold current EPA and NATE certifications."
+        },
+        {
+          "question": "What brands do you service and install?",
+          "answer": "We service all major HVAC brands including Carrier, Trane, Lennox, Rheem, Goodman, Daikin, York, and more. As factory-authorized dealers for several top brands, our technicians receive ongoing manufacturer training to stay current with the latest equipment."
+        }
+      ]
+    },
+    {
+      "name": "Cooling",
+      "slug": "cooling",
+      "faqs": [
+        {
+          "question": "Why is my AC running but not cooling the house?",
+          "answer": "The most common causes are a dirty air filter restricting airflow, low refrigerant due to a leak, a frozen evaporator coil, or a failing compressor. Start by checking your filter and make sure the outdoor unit is clear of debris. If those look fine, call {{businessName}} at {{phone}} for a professional diagnosis."
+        },
+        {
+          "question": "How often should I replace my air filter?",
+          "answer": "Standard one-inch filters should be replaced every 30-60 days, especially during heavy cooling months in {{city}}. Four-inch media filters can last 6-12 months. If you have pets, allergies, or live in a dusty area, replace them more frequently."
+        },
+        {
+          "question": "Should I repair or replace my AC unit?",
+          "answer": "As a general guideline, if your system is over 12-15 years old, the repair costs more than half the price of a new unit, or you are calling for repairs more than twice per season, replacement is usually the better long-term investment. {{businessName}} will always give you an honest recommendation."
+        },
+        {
+          "question": "What SEER rating should I look for in a new AC?",
+          "answer": "For {{city}}'s hot climate, we recommend a minimum of 16 SEER for meaningful energy savings. Systems rated 18-20+ SEER cost more upfront but deliver significantly lower monthly utility bills, often paying for the difference within a few years of heavy use."
+        }
+      ]
+    },
+    {
+      "name": "Heating",
+      "slug": "heating",
+      "faqs": [
+        {
+          "question": "Why is my heater blowing cold air?",
+          "answer": "This could indicate a pilot light or ignition failure, a malfunctioning thermostat, a clogged filter restricting airflow, or a problem with the heat exchanger. For gas furnaces, a cold-air issue should be inspected promptly to rule out safety concerns. Contact {{businessName}} for a same-day diagnostic."
+        },
+        {
+          "question": "How often should my furnace be serviced?",
+          "answer": "We recommend annual furnace maintenance every fall before heating season begins. A professional tune-up ensures safe operation, maintains peak efficiency, and catches small problems like cracked heat exchangers or worn ignitors before they lead to a mid-winter breakdown."
+        },
+        {
+          "question": "Is a heat pump a good option for {{city}}?",
+          "answer": "Heat pumps are an excellent choice for {{city}}'s climate because our winters are relatively mild. They provide both heating and cooling from a single system, operate very efficiently in moderate temperatures, and can reduce your overall energy costs compared to running separate AC and furnace systems."
+        }
+      ]
+    },
+    {
+      "name": "Maintenance & Air Quality",
+      "slug": "maintenance",
+      "faqs": [
+        {
+          "question": "How often should I have my HVAC system professionally maintained?",
+          "answer": "We recommend twice-yearly professional maintenance: an AC tune-up in spring and a heating tune-up in fall. Regular maintenance prevents up to 95% of breakdowns, extends equipment life by 5-10 years, and keeps your system running at peak efficiency. {{businessName}} offers annual maintenance plans starting at $149."
+        },
+        {
+          "question": "Do I really need duct cleaning?",
+          "answer": "If you notice excessive dust in your home, musty odors from vents, visible mold near registers, or if your ducts have not been cleaned in five or more years, professional duct cleaning is recommended. It removes accumulated dust, allergens, and debris that circulate through your home every time the system runs."
+        },
+        {
+          "question": "What can I do to improve my indoor air quality?",
+          "answer": "Start with regular filter changes and keeping your HVAC system well maintained. For more significant improvement, {{businessName}} offers whole-home air purification systems, UV germicidal lights that kill mold and bacteria in your ductwork, and HEPA filtration upgrades. A free air quality consultation can help identify the best solution for your home."
+        }
+      ]
+    }
+  ]
+}

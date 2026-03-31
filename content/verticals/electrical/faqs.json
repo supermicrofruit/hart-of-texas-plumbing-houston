@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "General",
+      "slug": "general",
+      "faqs": [
+        {
+          "question": "Are your electricians licensed and insured?",
+          "answer": "Yes, {{businessName}} is fully licensed ({{licenseNumber}}) and insured. Every electrician on our team holds a valid license, is background-checked, and stays current with the latest electrical codes and safety standards."
+        },
+        {
+          "question": "Do you provide free estimates?",
+          "answer": "We offer free estimates for larger projects like panel upgrades, rewiring, and EV charger installations. For service and repair calls, we charge a diagnostic fee that gets applied toward the cost of the repair if you choose to proceed."
+        },
+        {
+          "question": "How quickly can you respond to a service call in {{city}}?",
+          "answer": "For standard appointments, we typically offer same-day or next-day availability. For emergencies such as sparking outlets, burning smells, or complete power loss, we prioritize immediate dispatch and usually arrive within {{responseTime}}."
+        },
+        {
+          "question": "Do you pull permits for electrical work?",
+          "answer": "Absolutely. {{businessName}} pulls all required permits and schedules inspections for any work that requires them. This ensures your electrical work is code-compliant, safe, and properly documented for future home sales or insurance purposes."
+        }
+      ]
+    },
+    {
+      "name": "Safety",
+      "slug": "safety",
+      "faqs": [
+        {
+          "question": "Is a burning smell from an outlet an emergency?",
+          "answer": "Yes, a burning smell near any outlet, switch, or your electrical panel is a serious warning sign. Turn off the circuit at the breaker panel immediately and call {{businessName}} at {{phone}}. Do not use the outlet until a licensed electrician has inspected it."
+        },
+        {
+          "question": "How often should I have my home's electrical system inspected?",
+          "answer": "We recommend a professional electrical inspection every 3-5 years for most homes, or immediately if you notice warning signs like flickering lights, warm outlets, or frequent breaker trips. Homes older than 30 years or those with original wiring should be inspected more frequently."
+        },
+        {
+          "question": "What are GFCI outlets and where do I need them?",
+          "answer": "GFCI (Ground Fault Circuit Interrupter) outlets protect against electrical shock by shutting off power when they detect a ground fault. Current electrical code requires them in kitchens, bathrooms, garages, outdoor areas, laundry rooms, and anywhere near water. If your {{city}} home lacks GFCI protection in these areas, {{businessName}} can upgrade them quickly."
+        },
+        {
+          "question": "Is it safe to use extension cords as permanent wiring?",
+          "answer": "No. Extension cords are designed for temporary use only. Using them permanently can overheat wiring, create tripping hazards, and increase fire risk. If you need more outlets in a room, {{businessName}} can install additional circuits and receptacles to meet your needs safely and to code."
+        }
+      ]
+    },
+    {
+      "name": "Upgrades & Installation",
+      "slug": "upgrades-installation",
+      "faqs": [
+        {
+          "question": "When should I upgrade my electrical panel?",
+          "answer": "Consider a panel upgrade if you have a 100-amp panel and are adding major appliances, frequently trip breakers, still have a fuse box, or are planning a home addition or EV charger installation. Most modern homes need at least 200 amps to handle today's electrical demands."
+        },
+        {
+          "question": "How long does an EV charger installation take?",
+          "answer": "Most EV charger installations are completed in 3-5 hours, assuming your panel has sufficient capacity. If a panel upgrade is needed, that adds roughly one day. {{businessName}} handles the permit, installation, and inspection all in one seamless process."
+        },
+        {
+          "question": "Can you add outlets to a room that doesn't have enough?",
+          "answer": "Yes. Adding outlets is one of our most common jobs. We can install standard outlets, USB charging outlets, GFCI-protected outlets, and 220V outlets for appliances. We'll run new wiring to your panel safely and with minimal disruption to your walls."
+        }
+      ]
+    },
+    {
+      "name": "Emergency",
+      "slug": "emergency",
+      "faqs": [
+        {
+          "question": "Do you offer 24/7 emergency electrical service?",
+          "answer": "Yes, {{businessName}} provides 24/7 emergency electrical service throughout {{city}} and surrounding areas. Electrical emergencies like power outages, sparking, burning smells, and exposed wiring are dangerous and should never wait until morning. Call {{phone}} anytime."
+        },
+        {
+          "question": "What should I do if I lose power but my neighbors still have it?",
+          "answer": "If your neighbors have power but you don't, the issue is likely with your electrical panel, main breaker, or the service line to your home. Check your main breaker first — if it has tripped, try resetting it once. If it trips again or won't reset, call {{businessName}} for a same-day diagnosis."
+        },
+        {
+          "question": "What qualifies as an electrical emergency?",
+          "answer": "Electrical emergencies include sparking or arcing from outlets or panels, burning smells near electrical components, complete power loss in your home, exposed or downed wires, and any situation where you feel your safety is at risk. When in doubt, call {{businessName}} at {{phone}} — we'd rather check and find nothing than have you face a hazard alone."
+        }
+      ]
+    }
+  ]
+}
