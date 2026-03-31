@@ -13,6 +13,7 @@
       "icon": "Wrench",
       "features": ["Leak repair", "Pipe repair & replacement", "Fixture installation", "Repiping", "Backflow prevention", "Commercial plumbing"],
       "category": "plumbing",
+      "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/services/plumbing/plumbing-fixture-installation.jpg",
       "metaTitle": "Professional Plumbing Services Humble TX | Hart Of Texas",
       "metaDescription": "Professional plumbing repairs and installations in Humble and Greater Houston. 16+ years experience. Call (713) 364-3254."
     },
@@ -25,6 +26,7 @@
       "features": ["Hydro jetting", "Sewer camera inspection", "Kitchen & bath drains", "Main line cleaning", "Preventive maintenance"],
       "category": "drain-sewer",
       "emergency": true,
+      "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/services/plumbing/plumbing-drain-cleaning.jpg",
       "metaTitle": "Drain Cleaning Humble & Houston TX | Hart Of Texas Plumbing",
       "metaDescription": "Professional drain cleaning in Humble and Greater Houston. Camera inspections, hydro jetting. Call (713) 364-3254."
     },
@@ -36,6 +38,7 @@
       "icon": "GitBranch",
       "features": ["Camera inspection", "Trenchless repair", "Line replacement", "Root removal", "Spot repairs"],
       "category": "drain-sewer",
+      "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/services/plumbing/plumbing-sewer-line.jpg",
       "metaTitle": "Sewer Line Services Humble TX | Hart Of Texas Plumbing",
       "metaDescription": "Sewer line repair and replacement in Humble and Greater Houston. Trenchless options available. Call (713) 364-3254."
     },
@@ -47,6 +50,7 @@
       "icon": "Flame",
       "features": ["Tank water heaters", "Tankless systems", "Repair & maintenance", "New installation", "All major brands", "Same-day service"],
       "category": "specialty",
+      "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/services/plumbing/plumbing-water-heater.jpg",
       "metaTitle": "Water Heater Services Humble TX | Hart Of Texas Plumbing",
       "metaDescription": "Water heater repair, replacement, and installation in Humble and Greater Houston. Tank and tankless. Call (713) 364-3254."
     },
@@ -59,6 +63,7 @@
       "features": ["Gas leak detection", "New line installation", "Appliance hookups", "Propane systems", "Safety inspections"],
       "category": "specialty",
       "emergency": true,
+      "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/services/plumbing/plumbing-leak-repair.jpg",
       "metaTitle": "Gas Line Services Humble TX | Hart Of Texas Plumbing",
       "metaDescription": "Gas line installation, repair, and leak detection in Humble and Greater Houston. Call (713) 364-3254."
     },
@@ -71,6 +76,7 @@
       "features": ["Burst pipe repair", "Sewer backup", "Gas leak response", "Flooding", "After-hours service"],
       "category": "plumbing",
       "emergency": true,
+      "image": "https://res.cloudinary.com/dit0tonpv/image/upload/c_fill,w_800,h_600,q_auto,f_auto/foundlio/services/plumbing/plumbing-emergency-plumbing.jpg",
       "metaTitle": "Emergency Plumbing Humble TX | Hart Of Texas Plumbing",
       "metaDescription": "Emergency plumbing service in Humble and Greater Houston. Fast response for burst pipes, leaks, sewer backups. Call (713) 364-3254."
     }
